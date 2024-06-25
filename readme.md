@@ -1,8 +1,6 @@
 # 👋 Hi, I'm 0xAquaWolf
 
-## 🚀 Senior Full-Stack Software Engineer
-
-I'm a polymath and professional generalist with a passion for building impactful, consumer-facing products that challenge the status quo.
+I'm a polymath and senior full-stack software engineer with a passion for building impactful, innovative, beautiful, consumer-facing products that challenge the status quo.
 
 Currently I'm an indie hacker pursuing my next evolution by upskilling in AI and Web3 by building in public and releasing as many quality apps as humanly possible before the inevitable AI Apocalypse 🤖
 
