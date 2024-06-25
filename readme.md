@@ -49,7 +49,7 @@ Currently I'm an indie hacker upskilling in AI and Web3 by building in public an
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) / [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/) / [Next.js](https://nextjs.org/)
-- [Vue](https://vuejs.org/) / [Nuxt.js](https://nuxtjs.org/)
+- [Vue](https://vuejs.org/) / [Nuxt.js](https://nuxtjs.com/)
 - [PHP](https://www.php.net/) / [Laravel](https://laravel.com/)
 - [Python](https://www.python.org/)
 
