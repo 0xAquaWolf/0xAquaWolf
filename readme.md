@@ -27,10 +27,10 @@ Currently I'm an indie hacker upskilling in AI and Web3 by building in public an
 
 - [YouTube](https://www.youtube.com/channel/UCkwRYP1J1hjRXwo5lyBRWdQ)
 - [Twitter](https://twitter.com/0xAquaWolf)
-- [Instagram](https://www.instagram.com/0xAquaWolf)
 - ~Skool~ (Coming Soon)
 - ~Personal Blog~ (Coming Soon)
 - ~Newsletter~ (Coming Soon)
+<!-- - [Instagram](https://www.instagram.com/0xAquaWolf) -->
 
 ## 🖥️ Development Environment
 
