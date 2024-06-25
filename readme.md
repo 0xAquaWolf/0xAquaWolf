@@ -8,15 +8,15 @@ Currently I'm an indie hacker upskilling in AI and Web3 by building in public an
 
 ### 💼 Career Highlights
 
-- 🌐 Contributed to Web3 projects that generated $28M+
-- 🛒 Helped build an e-commerce startup generating $30K/MRR
-- 🤖 Launched an AI startup
+- 🌐 Lead & Contributed to multiple Web3 projects that generated $28M+
+- 🛒 Built an e-commerce startup generating $30K/MRR
+- 🤖 Launched an AI Persona Chatbot startup
 - 🚀 Built sales funnels and numerous other projects
 
 ### 🛠️ Skills & Technologies
 
 - 🏃‍♂️ Rapid Prototyping
-- 💻 Full-Stack Development (JS & Python)
+- 💻 Full-Stack Development (JS, PHP & Python)
 - 🎨 UI/UX Design
 - 🔗 Web3 & Blockchain
 - 🧠 AI & Machine Learning
@@ -36,38 +36,38 @@ Currently I'm an indie hacker upskilling in AI and Web3 by building in public an
 
 ### ✏️ Editor
 
-- **Editor:** Neovim (I love modal editing and building my own Personal Development Environment)
+- **Editor:** [Neovim](https://neovim.io/) (I love modal editing and building my own Personal Development Environment)
 - **OS:** macOS (Great Unix foundation for developers)
 
 ### 🖲️ Terminal
 
-- **Emulator:** wezterm
-- **Shell:** Fish Shell
-- **Multiplexer:** Zellij
+- **Emulator:** [WezTerm](https://wezfurlong.org/wezterm/)
+- **Shell:** [Fish Shell](https://fishshell.com/)
+- **Multiplexer:** [Zellij](https://zellij.dev/)
 
 ### 🛠️ Languages & Frameworks
 
-- JavaScript / TypeScript
-- React / Next.js
-- Vue / Nuxt.js
-- PHP / Laravel
-- Python
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) / [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/) / [Next.js](https://nextjs.org/)
+- [Vue](https://vuejs.org/) / [Nuxt.js](https://nuxtjs.org/)
+- [PHP](https://www.php.net/) / [Laravel](https://laravel.com/)
+- [Python](https://www.python.org/)
 
 ### 📊 Productivity
 
-- **Note-taking:** Obsidian
-- **Time Tracking:** Rize
+- **Note-taking:** [Obsidian](https://obsidian.md/)
+- **Time Tracking:** [Rize](https://rize.io/)
 
 ### 🎨 Design Tools
 
-- Figma
-- Affinity Photo / Designer
+- [Figma](https://www.figma.com/)
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/) / [Designer](https://affinity.serif.com/en-us/designer/)
 
 ### 🛠️ Customization
 
 - **Dotfiles:** [Aquafiles](https://github.com/0xaquawolf/aquafiles)
-- **Color Scheme:** Catpuccin Mocha
-- **Font:** Operator Mono (Ligature and Nerd Font Patched)
+- **Color Scheme:** [Catppuccin Mocha](https://github.com/catppuccin/catppuccin)
+- **Font:** [Operator Mono](https://www.typography.com/fonts/operator/overview) (Ligature and Nerd Font Patched)
 
 ## 📝 Recent Blog Posts
 
