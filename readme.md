@@ -1,8 +1,6 @@
-# 👋 Hi, I'm 0xAquaWolf
+# 👋 Hi, I'm AquaWolf
 
-I'm a polymath and senior full-stack software engineer with a passion for building impactful, innovative, consumer-facing products that challenge the status quo.
-
-Currently I'm an indie hacker upskilling in AI and Web3 by building in public and releasing as many quality apps as humanly possible before the inevitable AI Apocalypse 🤖
+Currently upskilling in AI and Web3 by building in public and releasing as many quality apps as humanly possible before the inevitable AI Apocalypse 🤖
 
 ---
 
@@ -28,7 +26,6 @@ Currently I'm an indie hacker upskilling in AI and Web3 by building in public an
 - [YouTube](https://www.youtube.com/channel/UCkwRYP1J1hjRXwo5lyBRWdQ)
 - [Twitter](https://twitter.com/0xAquaWolf)
 - ~Skool~ (Coming Soon)
-- ~Personal Blog~ (Coming Soon)
 - ~Newsletter~ (Coming Soon)
 <!-- - [Instagram](https://www.instagram.com/0xAquaWolf) -->
 
@@ -73,7 +70,7 @@ Currently I'm an indie hacker upskilling in AI and Web3 by building in public an
 
 <!-- BLOG-POST-LIST:START -->
 
-~Blog Coming Soon~
+~Blog~ (Coming Soon)
 
 <!-- BLOG-POST-LIST:END -->
 
