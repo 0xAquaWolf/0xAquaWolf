@@ -27,9 +27,6 @@ Currently upskilling in AI and Machine Learning by building in public and releas
 
 - [YouTube](https://www.youtube.com/channel/UCkwRYP1J1hjRXwo5lyBRWdQ)
 - [Twitter](https://twitter.com/0xAquaWolf)
-- ~Skool~ (Coming Soon)
-- ~Newsletter~ (Coming Soon)
-<!-- - [Instagram](https://www.instagram.com/0xAquaWolf) -->
 
 ## 🖥️ Development Environment
 
