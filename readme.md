@@ -48,6 +48,7 @@ Currently upskilling in AI and Machine Learning by building in public and releas
 - [Vue](https://vuejs.org/) / [Nuxt.js](https://nuxtjs.com/)
 - [PHP](https://www.php.net/) / [Laravel](https://laravel.com/)
 - [Python](https://www.python.org/)
+- [Lua](https://www.lua.org/)
 
 ### 📊 Productivity
 
