@@ -1,6 +1,6 @@
 # 👋 Hi, I'm AquaWolf
 
-I'm a senior full-stack software engineer, a polymath, a seeker of truth and indie hacker with a passion for building impactful, innovative, consumer-facing products that challenge the status quo.
+I'm a senior full-stack Web3 software engineer, a polymath, a seeker of truth and indie hacker with a passion for building impactful, innovative, consumer-facing products that challenge the status quo.
 
 Currently upskilling in AI and Machine Learning by building in public and releasing as many quality apps as humanly possible before the inevitable AI Apocalypse 🤖
 
