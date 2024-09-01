@@ -16,8 +16,15 @@ Currently upskilling in AI and Machine Learning by building in public and releas
 ### 🛠️ Skills & Technologies
 
 - 🏃‍♂️ Rapid Prototyping
-- 💻 Full-Stack Development (JavaScript, Typescript & Python)
+- 📦 Out of the Box Thinking
+- 💻 Full-Stack Development
+  -  Javascript
+  -  React
+  -  Node.js
+  -  Typescript
+  -  Python
 - 🎨 UI/UX Design
+  - Figma
 - 🧠 AI & Machine Learning
 - 🔗 Web3 & Blockchain
 - 🛍️ E-commerce Solutions
