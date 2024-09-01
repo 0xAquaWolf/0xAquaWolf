@@ -74,7 +74,7 @@ Currently upskilling in AI and Machine Learning by building in public and releas
 
 <!-- BLOG-POST-LIST:START -->
 
-~Blog~ (Coming Soon)
+(Coming Soon)
 
 <!-- BLOG-POST-LIST:END -->
 
