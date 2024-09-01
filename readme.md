@@ -1,6 +1,6 @@
 # 👋 Hi, I'm AquaWolf
 
-I'm a senior full-stack Web3 software engineer, a polymath, a seeker of truth and indie hacker with a passion for building impactful, innovative, consumer-facing products that challenge the status quo.
+I'm a senior Full-Stack Software Engineer, a polymath, a seeker of truth and indie hacker with a passion for building impactful, innovative, consumer-facing products that challenge the status quo.
 
 Currently upskilling in Web3, AI and Machine Learning by building in public and releasing as many quality apps as humanly possible before the inevitable AI Apocalypse 🤖
 
@@ -16,10 +16,10 @@ Currently upskilling in Web3, AI and Machine Learning by building in public and 
 ### 🛠️ Skills & Technologies
 
 - 🏃‍♂️ Rapid Prototyping
-- 💻 Full-Stack Development (JS, PHP & Python)
+- 💻 Full-Stack Development (JavaScript, Typescript & Python)
 - 🎨 UI/UX Design
-- 🔗 Web3 & Blockchain
 - 🧠 AI & Machine Learning
+- 🔗 Web3 & Blockchain
 - 🛍️ E-commerce Solutions
 - 📈 Sales Funnel Optimization
 
@@ -32,7 +32,7 @@ Currently upskilling in Web3, AI and Machine Learning by building in public and 
 
 ### ✏️ Editor
 
-- **Editor:** [Neovim](https://neovim.io/) (I love modal editing and building my own Personal Development Environment)
+- **Editor:** [Cursor](https://www.cursor.com/) - The future is built with AI, having AI inside of your editor is a game changer
 - **OS:** macOS (Great Unix foundation for developers)
 
 ### 🖲️ Terminal
@@ -45,10 +45,7 @@ Currently upskilling in Web3, AI and Machine Learning by building in public and 
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) / [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/) / [Next.js](https://nextjs.org/)
-- [Vue](https://vuejs.org/) / [Nuxt.js](https://nuxtjs.com/)
-- [PHP](https://www.php.net/) / [Laravel](https://laravel.com/)
 - [Python](https://www.python.org/)
-- [Lua](https://www.lua.org/)
 
 ### 📊 Productivity
 
