@@ -8,7 +8,7 @@ Currently upskilling in AI and Machine Learning by building in public and releas
 
 ### 💼 Career Highlights
 
-- 🌐 Lead & Contributed to multiple Web3 projects that generated $28M+
+- 🌐 Lead & Contributed to multiple Web3 projects that generated $28,000,000+
 - 🛒 Built an e-commerce startup generating $30K/MRR
 - 🤖 Launched an AI Persona Chatbot startup
 - 🚀 Built sales funnels and numerous other projects
