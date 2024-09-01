@@ -2,7 +2,7 @@
 
 I'm a senior Full-Stack Software Engineer, a polymath, a seeker of truth and indie hacker with a passion for building impactful, innovative, consumer-facing products that challenge the status quo.
 
-Currently upskilling in Web3, AI and Machine Learning by building in public and releasing as many quality apps as humanly possible before the inevitable AI Apocalypse 🤖
+Currently upskilling in AI and Machine Learning by building in public and releasing as many quality apps as humanly possible before we all become farmers again 👨‍🌾🚜
 
 ---
 
